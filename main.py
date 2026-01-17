@@ -38,3 +38,5 @@ while True:
     else:
         respuesta = funcion_agente(driver, user_input)
         print(f">>> {respuesta}")
+        alias asistente="cd -/automatizaci-n_simple && source .venv/bin/activate && python main.py"
+
